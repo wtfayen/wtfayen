@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @wtfayen
+- 🌱 I’m currently learning html, css, python, lua
+- 📫 My Site https://wtfayen.pl/
